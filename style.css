@@ -1,0 +1,51 @@
+h1 {
+	font-family: 'Poppins', sans-serif;
+	color: black;
+}
+
+
+
+
+p {
+	font-family: 'Poppins', sans-serif;
+	color: black;
+}
+
+a {
+	color: white;
+	padding: 20px; 
+	border-radius: 10px ;
+	background: blue;
+	text-decoration: none;
+	font-family: 'Poppins', sans-serif;
+}
+
+a:hover
+{
+	color:yellow;
+	
+}
+
+div {
+	display: block;
+	background: white;
+	padding: 68px;
+	margin: 50px;
+	box-shadow: 0px 5px 15px rgba(0,0,0,1);
+	border-radius: 1%;
+}
+
+.competences {
+	
+	box-shadow: 0px 10px 30px rgba(0,0,0,1);
+	border-radius: 0%;
+	padding: 23px;
+	margin: 16px;
+	float: left;
+}
+
+
+.img-circle {
+	border-radius: 50%;
+}
+
